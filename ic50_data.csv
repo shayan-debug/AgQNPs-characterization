@@ -1,0 +1,5 @@
+Compound,IC50_ugmL,IC50_std,Max_inhibition_pct,Max_inhibition_conc_ugmL,Notes
+Quercetin,9.581,0.38,74,20,Free quercetin
+Ag@QNPs,0.473,0.09,97,167,12% quercetin loading; 20 ug/mL quercetin equivalent
+Hydroxyurea,7.6,,,,Positive control
+AgNPs,,,minimal,,No significant urease inhibition

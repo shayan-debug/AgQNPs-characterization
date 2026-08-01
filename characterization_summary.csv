@@ -1,0 +1,8 @@
+Parameter,AgNPs,Ag@QNPs,Unit,Method
+UV-Vis absorption peak,407,445,nm,UV-Vis spectroscopy
+Hydrodynamic diameter,70.85,104.5,nm,DLS (Malvern ZEN3600)
+Size std dev,9.68,8.53,nm,DLS
+Zeta potential,-23.5,-15.2,mV,DLS
+Zeta potential std dev,3.16,2.3,mV,DLS
+TEM size (min),59,57,nm,TEM (PHILIPS EM208s)
+TEM size (max),69,77,nm,TEM (PHILIPS EM208s)
