@@ -64,7 +64,11 @@ Crystallite size calculated by Debye-Scherrer equation: **D = 0.62 nm**
 | **Ag@QNPs** | **0.473 ± 0.09** | ~20× more potent than free quercetin |
 | Hydroxyurea | 7.6 | Positive control |
 
-> Ag@QNPs show ~20× greater potency than free quercetin on a quercetin-equivalent concentration basis (12% drug loading). On total nanoparticle mass basis, IC₅₀ = 0.473 vs 9.581 µg/mL represents a ~20× improvement; on total formulation mass basis (167 vs 20 µg/mL at max inhibition), the nanoparticle platform delivers 97% inhibition vs 74% from free quercetin.
+Ag@QNPs show ~20× greater potency than free quercetin on a 
+total nanoparticle mass basis (IC₅₀: 0.473 vs 9.581 µg/mL). 
+On a quercetin-equivalent basis (12% loading efficiency), 
+the effective IC₅₀ of quercetin in Ag@QNPs is approximately 
+0.057 µg/mL, representing ~170× improvement over free quercetin.
 
 ---
 
